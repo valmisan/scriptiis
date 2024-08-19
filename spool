@@ -1,1 +1,2 @@
-
+get-service spooler
+start-service spooler
